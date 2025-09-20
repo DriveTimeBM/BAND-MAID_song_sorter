@@ -12,7 +12,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ---
 
 ## Features
-- Rank all 12+ BAND-MAID songs
+- Rank all 120+ BAND-MAID songs
 - Progress tracking
 - Submit results for inclusion in community results
 - Generic/reuseable sorter stand-alone HTML
@@ -38,7 +38,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ---
 
 ## Other BAND-MAID Projects
-- [BAND-MAID GIF Catalog](https://github.com/DriveTimeBM/BAND-MAID_tweets)
-- [BAND-MAID Song Sorter (Ranker)](https://github.com/DriveTimeBM/BAND-MAID_gifs)
+- [BAND-MAID X/Twitter Archive](https://github.com/DriveTimeBM/BAND-MAID_tweets)
+- [BAND-MAID GIF Catalog](https://github.com/DriveTimeBM/BAND-MAID_gifs)
 
 

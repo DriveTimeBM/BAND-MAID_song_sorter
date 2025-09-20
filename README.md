@@ -2,13 +2,11 @@
 
 Auto-generated song sorter for BAND-MAID songs
 
-# BAND-MAID GIFs Catalog
-
 <img src="favicon.png" alt="Logo" width="128" height="128">
 
 This project contains a stand-alone HTML song sorter. Users can submit their results to be included in aggregate results.
 
-🔗 **View the catalog here:**  
+🔗 **View the sorter here:**  
 [https://drivetimebm.github.io/BAND-MAID_song_sorter/](https://drivetimebm.github.io/BAND-MAID_song_sorter/)
 
 ---
@@ -23,7 +21,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 
 ## Technical Notes
 - Tracks progress with completion estimate
-- Submit community results with a simple copy/paste of all songs
+- Submit community results with a simple copy/paste of results
 
 ---
 

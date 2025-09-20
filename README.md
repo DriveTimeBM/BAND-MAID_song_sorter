@@ -12,7 +12,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ---
 
 ## Features
-- Rank all 120+ BAND-MAID songs
+- Rank all 120+ unique BAND-MAID songs
 - Progress tracking
 - Submit results for inclusion in community results
 - Generic/reuseable sorter stand-alone HTML
@@ -22,18 +22,15 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ## Technical Notes
 - Tracks progress with completion estimate
 - Submit community results with a simple copy/paste of results
+- BAND-MAIKO songs that are covers of BAND-MAID songs are not included
 
 ---
 
 ## Credits
 - **Sorter Creation:** u/Some-Ad3087  
-- **Band:** [BAND-MAID Official](https://bandmaid.tokyo/) 
-- **X/Twitter Accounts:** [BAND-MAID Official](https://x.com/bandmaid/) 
-[Akane](https://x.com/achi_bandmaid/)
-[Kanami](https://x.com/kanami_bandmaid/)
-[KobatoMiku](https://x.com/miku_bandmaid/)
-[MISA](https://x.com/misa_bandmaid/)
-[Saiki](https://x.com/saiki_bandmaid/)
+- **Band:** [BAND-MAID Official Site](https://bandmaid.tokyo/) 
+- [BAND-MAID YouTube Channel](https://www.youtube.com/c/BANDMAID)
+
 
 ---
 

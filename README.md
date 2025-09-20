@@ -9,6 +9,8 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 🔗 **View the sorter here:**  
 [https://drivetimebm.github.io/BAND-MAID_song_sorter/](https://drivetimebm.github.io/BAND-MAID_song_sorter/)
 
+[Project Description](https://www.reddit.com/r/BandMaid/comments/1kstwkw/bandmaid_song_sorter/)
+
 ---
 
 ## Features

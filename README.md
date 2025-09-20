@@ -28,8 +28,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 
 ## Credits
 - **Sorter Creation:** u/Some-Ad3087  
-- **Band:** [BAND-MAID Official Site](https://bandmaid.tokyo/) 
-- [BAND-MAID YouTube Channel](https://www.youtube.com/c/BANDMAID)
+- **Band:** [BAND-MAID Official Site](https://bandmaid.tokyo/) [BAND-MAID YouTube Channel](https://www.youtube.com/c/BANDMAID)
 
 
 ---

@@ -35,8 +35,10 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 
 ---
 
-## Other BAND-MAID Projects
+## All BAND-MAID Projects
 - [BAND-MAID X/Twitter Archive](https://github.com/DriveTimeBM/BAND-MAID_tweets)
+- [BAND-MAID Song Sorter (Ranker)](https://github.com/DriveTimeBM/BAND-MAID_song_sorter)
 - [BAND-MAID GIF Catalog](https://github.com/DriveTimeBM/BAND-MAID_gifs)
+- [BAND-MAID Reports](https://github.com/DriveTimeBM/BAND-MAID_reports)
 
 

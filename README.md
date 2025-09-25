@@ -40,5 +40,6 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 - [BAND-MAID Song Sorter (Ranker)](https://github.com/DriveTimeBM/BAND-MAID_song_sorter)
 - [BAND-MAID GIF Catalog](https://github.com/DriveTimeBM/BAND-MAID_gifs)
 - [BAND-MAID Reports](https://github.com/DriveTimeBM/BAND-MAID_reports)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_instagram)
 
 

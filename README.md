@@ -14,6 +14,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ---
 
 ## Features
+
 - Rank all 120+ unique BAND-MAID songs
 - Progress tracking
 - Submit results for inclusion in community results
@@ -22,6 +23,7 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ---
 
 ## Technical Notes
+
 - Tracks progress with completion estimate
 - Submit community results with a simple copy/paste of results
 - BAND-MAIKO songs that are covers of BAND-MAID songs are not included
@@ -29,17 +31,19 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 ---
 
 ## Credits
+
 - **Sorter Creation:** u/Some-Ad3087  
 - **Band:** [BAND-MAID Official Site](https://bandmaid.tokyo/) [BAND-MAID YouTube Channel](https://www.youtube.com/c/BANDMAID)
-
 
 ---
 
 ## All BAND-MAID Projects
+
 - [BAND-MAID X/Twitter Archive](https://github.com/DriveTimeBM/BAND-MAID_tweets)
 - [BAND-MAID Song Sorter (Ranker)](https://github.com/DriveTimeBM/BAND-MAID_song_sorter)
 - [BAND-MAID GIF Catalog](https://github.com/DriveTimeBM/BAND-MAID_gifs)
 - [BAND-MAID Reports](https://github.com/DriveTimeBM/BAND-MAID_reports)
 - [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_instagram)
-
-
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_gpt)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_prime)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_creations)

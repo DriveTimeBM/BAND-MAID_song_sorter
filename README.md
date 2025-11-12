@@ -47,3 +47,6 @@ This project contains a stand-alone HTML song sorter. Users can submit their res
 - [BAND-MAID GPT](https://github.com/DriveTimeBM/BAND-MAID_gpt)
 - [BAND-MAID Prime Metadata](https://github.com/DriveTimeBM/BAND-MAID_prime)
 - [BAND-MAID Creations](https://github.com/DriveTimeBM/BAND-MAID_creations)
+- [BAND-MAID Setlists (Okyuji)](https://github.com/DriveTimeBM/BAND-MAID_okyuji)
+- [BAND-MAID Translations](https://github.com/DriveTimeBM/BAND-MAID_translations)
+- [BAND-MAID Songs](https://github.com/DriveTimeBM/BAND-MAID_songs)
